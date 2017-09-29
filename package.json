@@ -1,0 +1,17 @@
+{
+  "name": "font-subset",
+  "version": "1.0.0",
+  "description": "font-subset extension for Chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Patnaik",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.0.7",
+    "@types/react-dom": "^15.5.5",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
