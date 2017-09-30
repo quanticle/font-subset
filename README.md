@@ -10,4 +10,5 @@ Build instructions:
 * Install Typescript: `npm install -g typescript`
 * Install Webpack: `npm install -g webpack`
 * `cd` to this directory
+* `npm install` to pull down dependencies
 * `webpack`
