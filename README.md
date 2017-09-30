@@ -9,3 +9,5 @@ Build instructions:
 * Launch the NodeJS command prompt (if on Windows)
 * Install Typescript: `npm install -g typescript`
 * Install Webpack: `npm install -g webpack`
+* `cd` to this directory
+* `webpack`
